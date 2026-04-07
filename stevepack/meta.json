@@ -1,0 +1,12 @@
+{
+  "id": "stevepack", // ID
+  "name": "Steve Skin Pack", // Name
+  "author": "natestank",
+  "description": "A compilation of cool/funny Steve skins I've found.", // Description
+  "category": ["Skin", "DLC"], // Category
+  "thumbnail": "thumbnail.png", // Thumbnail filename
+  "zips": {
+    "texture.zip": "{DLCDir}" // placeholders are handled by Emerald
+  },
+  "version": "1.0.0"
+}
